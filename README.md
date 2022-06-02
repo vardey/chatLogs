@@ -1,4 +1,10 @@
-# chatLogs
+# Setup
+Required - NodeJs
+
+1. Clone the repo
+2. cd chatLogs
+3. npm i
+
 
 ## get all messages of a user
 
